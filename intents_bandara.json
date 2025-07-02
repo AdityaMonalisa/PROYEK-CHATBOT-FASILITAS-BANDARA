@@ -1,0 +1,23 @@
+{
+  "intents": [
+    {
+      "tag": "informasi_fasilitas",
+      "patterns": ["Dimana letak ATM?", "Dimana restoran?", "Dimana mushola?"],
+      "responses": ["Fasilitas berada di..."]
+    },
+    {
+      "tag": "jam_operasional",
+      "patterns": [
+        "Jam buka restoran?",
+        "Jam operasional lounge?",
+        "Kapan ATM buka?"
+      ],
+      "responses": ["Jam buka fasilitas adalah..."]
+    },
+    {
+      "tag": "deskripsi_fasilitas",
+      "patterns": ["Apa itu lounge?", "Apa itu mushola?", "Apa fungsi ATM?"],
+      "responses": ["Fasilitas ini digunakan untuk..."]
+    }
+  ]
+}

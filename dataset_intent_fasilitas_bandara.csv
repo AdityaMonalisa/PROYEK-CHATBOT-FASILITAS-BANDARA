@@ -1,0 +1,21 @@
+intent,text,entity
+cari_fasilitas,Fasilitas apa saja yang ada di bandara?,
+cari_fasilitas,Apa saja layanan yang tersedia di bandara ini?,
+cari_fasilitas,Bandara ini punya fasilitas apa aja?,
+cari_fasilitas,Tolong tampilkan semua fasilitas bandara,
+cari_fasilitas,Fasilitas umum di bandara ada apa saja?,
+jam_operasional_fasilitas,Jam operasional restoran di bandara sampai jam berapa?,fasilitas=restoran
+jam_operasional_fasilitas,Kapan lounge bandara buka?,fasilitas=lounge
+jam_operasional_fasilitas,Jam berapa ATM bisa digunakan di bandara?,fasilitas=atm
+jam_operasional_fasilitas,Saya ingin tahu jam buka check-in domestik,fasilitas=check_in
+jam_operasional_fasilitas,Jam operasional parkir bandara apa?,fasilitas=parkir
+lokasi_fasilitas,Di mana letak ruang istirahat keluarga?,fasilitas=ruang_istirahat
+lokasi_fasilitas,ATM ada di lokasi mana?,fasilitas=atm
+lokasi_fasilitas,Dimana saya bisa menemukan restoran di bandara?,fasilitas=restoran
+lokasi_fasilitas,Lounge Garuda lokasinya di mana?,fasilitas=lounge
+lokasi_fasilitas,Toko souvenir bandara ada di sebelah mana?,fasilitas=toko
+deskripsi_fasilitas,Apa yang disediakan oleh layanan informasi bandara?,fasilitas=informasi
+deskripsi_fasilitas,Apa saja layanan di ruang istirahat keluarga?,fasilitas=ruang_istirahat
+deskripsi_fasilitas,Apa fungsi dari pos keamanan bandara?,fasilitas=keamanan
+deskripsi_fasilitas,Apa yang tersedia di restoran bandara?,fasilitas=restoran
+deskripsi_fasilitas,Apa saja layanan di lounge Garuda?,fasilitas=lounge

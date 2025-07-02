@@ -1,0 +1,11 @@
+kategori,nama_fasilitas,lokasi,jam_operasional,keterangan
+check_in,Konter Check-In Domestik,Terminal 1A,04:00 - 22:00 WIB,Melayani check-in penerbangan domestik berbagai maskapai.
+restoran,Restoran Nusantara,Area Publik Terminal 2,06:00 - 23:00 WIB,Menyediakan makanan khas Indonesia dan internasional.
+lounge,Executive Lounge Garuda,Terminal 3 Keberangkatan,05:00 - 22:00 WIB,Fasilitas eksklusif untuk penumpang kelas bisnis.
+informasi,Meja Informasi Penerbangan,Lobi Utama Terminal 1,24 jam,Memberikan informasi jadwal dan layanan bandara.
+parkir,Parkir Mobil Jangka Panjang,Area Parkir P1,24 jam,Tersedia area parkir luas untuk kendaraan pribadi.
+keamanan,Pos Keamanan Utama,Pintu Masuk Terminal 3,24 jam,Pemeriksaan keamanan bagi penumpang dan pengunjung.
+atm,ATM Center,Area Kedatangan Terminal 2F,24 jam,Tersedia berbagai ATM dari bank nasional dan internasional.
+wifi,Hotspot Gratis Bandara,Seluruh Area Bandara,24 jam,Internet gratis dengan registrasi via email atau nomor ponsel.
+toko,Toko Souvenir Nusantara,Terminal 2 Keberangkatan,07:00 - 21:00 WIB,Menjual oleh-oleh khas daerah dan produk lokal.
+ruang_istirahat,Ruang Istirahat Keluarga,Terminal 1C,06:00 - 22:00 WIB,Tersedia sofa dan tempat ruang keluarga.
