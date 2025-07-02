@@ -3,3 +3,6 @@ numpy
 ﻿streamlit
 pandas
 nltk
+random
+re
+json
