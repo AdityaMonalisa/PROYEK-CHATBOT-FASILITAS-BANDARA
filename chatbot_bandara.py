@@ -1,4 +1,19 @@
 # === AirportBot: Panduan Fasilitas Bandara ===
+import os
+import nltk
+
+# Setup direktori custom untuk nltk data (agar aman di cloud)
+nltk_data_dir = os.path.join(os.path.expanduser("~"), "nltk_data")
+os.makedirs(nltk_data_dir, exist_ok=True)
+
+# Download semua resources yang dibutuhkan
+nltk.download("punkt", download_dir=nltk_data_dir)
+nltk.download("punkt_tab", download_dir=nltk_data_dir)
+nltk.download("stopwords", download_dir=nltk_data_dir)
+
+# Daftarkan path ke nltk
+nltk.data.path.append(nltk_data_dir)
+
 import torch
 import torch.nn as nn
 import numpy as np
